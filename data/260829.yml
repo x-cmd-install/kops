@@ -1,0 +1,63 @@
+about:
+  description: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  license: Apache-2.0
+  homepage: https://kops.sigs.k8s.io/
+  head: 389b1fb
+  archived: false
+  latestVersion: v1.36.2
+  collectedAt: 2026-08-29T07:21:12Z
+timeline:
+  created: 2016-06-27
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-08
+popularity:
+  star: 16671
+  watcher: 300
+  fork: 4717
+  release: 238
+  contributor: 1468
+  pullRequest: 1626
+  issue: 5354
+language:
+  Go: 8434815
+  HCL: 3940441
+  Shell: 1009626
+  Makefile: 41437
+  Roff: 34124
+  Go Template: 13538
+  Python: 11551
+  Dockerfile: 3573
+totalLine: 13489105
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 90
+    openPR: 8
+    closedIssue: 3
+    openIssue: 5
+    commit: 233
+  last90d:
+    since: 2026-05-31
+    release: 6
+    mergedPR: 257
+    openPR: 25
+    closedIssue: 15
+    openIssue: 6
+    commit: 553
+  last180d:
+    since: 2026-03-02
+    release: 13
+    mergedPR: 580
+    openPR: 37
+    closedIssue: 35
+    openIssue: 13
+    commit: 1231
+  last360d:
+    since: 2025-09-03
+    release: 18
+    mergedPR: 915
+    openPR: 42
+    closedIssue: 82
+    openIssue: 21
+    commit: 1851
