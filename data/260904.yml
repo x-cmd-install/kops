@@ -7,7 +7,7 @@ about:
   head: 4c8573c
   archived: false
   latestVersion: v1.37.0-beta.1
-  collectedAt: 2026-09-04T19:57:45Z
+  collectedAt: 2026-09-04T20:43:13Z
 timeline:
   created: 2016-06-27
   lastCommit: 2026-09-04
@@ -87,6 +87,129 @@ total:
   openIssue: 91
   commit: 24406
 ---
+path: /home/runner/.x-repo/github.com/kubernetes/kops
+collectedAt: 2026-09-04T20:43:38Z
+loc:
+  Go:
+    code: 3267317
+    comments: 819613
+    blanks: 478155
+    files: 13047
+  Json:
+    code: 141594
+    comments: 0
+    blanks: 1
+    files: 55
+  Hcl:
+    code: 79520
+    comments: 0
+    blanks: 7730
+    files: 81
+  Yaml:
+    code: 67560
+    comments: 537
+    blanks: 1410
+    files: 464
+  AssemblyGAS:
+    code: 20278
+    comments: 1463
+    blanks: 3327
+    files: 78
+  Protobuf:
+    code: 9653
+    comments: 27914
+    blanks: 5463
+    files: 77
+  Bash:
+    code: 4658
+    comments: 492
+    blanks: 1051
+    files: 48
+  Sh:
+    code: 4579
+    comments: 1955
+    blanks: 996
+    files: 102
+  Makefile:
+    code: 1734
+    comments: 295
+    blanks: 523
+    files: 33
+  Python:
+    code: 265
+    comments: 100
+    blanks: 92
+    files: 5
+  Svg:
+    code: 216
+    comments: 2
+    blanks: 1
+    files: 2
+  PowerShell:
+    code: 171
+    comments: 15
+    blanks: 26
+    files: 2
+  CHeader:
+    code: 137
+    comments: 16
+    blanks: 30
+    files: 1
+  ABNF:
+    code: 126
+    comments: 37
+    blanks: 80
+    files: 1
+  C:
+    code: 97
+    comments: 38
+    blanks: 30
+    files: 3
+  Nix:
+    code: 97
+    comments: 2
+    blanks: 18
+    files: 3
+  Dockerfile:
+    code: 44
+    comments: 57
+    blanks: 17
+    files: 6
+  Toml:
+    code: 21
+    comments: 47
+    blanks: 7
+    files: 5
+  Css:
+    code: 11
+    comments: 1
+    blanks: 2
+    files: 1
+  Bitbake:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 2
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 64648
+    blanks: 27186
+    files: 608
+  Text:
+    code: 0
+    comments: 11532
+    blanks: 1279
+    files: 78
+total:
+  code: 3606327
+  comments: 929774
+  blanks: 528425
+  files: 14703
 ---
 date: "2026-08-24"
 repo:
