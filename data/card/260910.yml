@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.37.0-beta.1"
   latestRelease: "v1.36.2"
   latestPrerelease: "v1.37.0-beta.1"
-  collectedAt: 2026-09-10T20:35:58Z
+  collectedAt: 2026-09-10T23:12:09Z
 timeline:
   created: 2016-06-27
   lastCommit: 2026-09-10
@@ -90,7 +90,7 @@ total:
   commit: 24420
 ---
 path: /home/runner/.x-repo/github.com/kubernetes/kops
-collectedAt: 2026-09-10T20:37:07Z
+collectedAt: 2026-09-10T23:13:21Z
 loc:
   Go:
     code: 3268695
