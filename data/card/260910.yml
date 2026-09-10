@@ -2,15 +2,15 @@ about:
   description: "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management"
   license: Apache-2.0
   homepage: https://kops.sigs.k8s.io/
-  head: fb9753c
+  head: b0e54dc
   archived: false
   latestVersion: "v1.37.0-beta.1"
   latestRelease: "v1.36.2"
   latestPrerelease: "v1.37.0-beta.1"
-  collectedAt: 2026-09-10T05:35:47Z
+  collectedAt: 2026-09-10T20:35:58Z
 timeline:
   created: 2016-06-27
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-08-29
   lastRelease: 2026-08-08
   lastPrerelease: 2026-08-29
@@ -20,10 +20,10 @@ popularity:
   fork: 4716
   release: 239
   contributor: 1471
-  pullRequest: 13261
+  pullRequest: 13266
   issue: 5355
 language:
-  Go: 8476972
+  Go: 8481008
   HCL: 3964637
   Shell: 1017424
   Makefile: 41356
@@ -31,72 +31,72 @@ language:
   Go Template: 13538
   Python: 11551
   Dockerfile: 3573
-totalBytes: 13563624
+totalBytes: 13567660
 recent:
   last30d:
     since: 2026-08-11
     release: 1
-    mergedPR: 91
+    mergedPR: 96
     openPR: 8
     closedIssue: 2
     openIssue: 5
-    commit: 215
+    commit: 217
   last60d:
     since: 2026-07-12
     release: 6
-    mergedPR: 162
+    mergedPR: 167
     openPR: 18
     closedIssue: 7
     openIssue: 6
-    commit: 390
+    commit: 392
   last90d:
     since: 2026-06-12
     release: 7
-    mergedPR: 255
+    mergedPR: 260
     openPR: 26
     closedIssue: 9
     openIssue: 6
-    commit: 556
+    commit: 558
   last180d:
     since: 2026-03-14
     release: 14
-    mergedPR: 573
+    mergedPR: 578
     openPR: 39
     closedIssue: 33
     openIssue: 11
-    commit: 1208
+    commit: 1210
   last360d:
     since: 2025-09-15
     release: 19
-    mergedPR: 927
+    mergedPR: 932
     openPR: 43
     closedIssue: 82
     openIssue: 21
-    commit: 1878
+    commit: 1880
   last720d:
     since: 2024-09-20
     release: 34
-    mergedPR: 1392
+    mergedPR: 1397
     openPR: 44
     closedIssue: 192
     openIssue: 25
-    commit: 2728
+    commit: 2730
 total:
   release: 239
-  mergedPR: 11632
+  mergedPR: 11637
   openPR: 44
   closedIssue: 5266
   openIssue: 89
-  commit: 24418
+  commit: 24420
 ---
 path: /home/runner/.x-repo/github.com/kubernetes/kops
-collectedAt: 2026-09-10T05:36:52Z
+collectedAt: 2026-09-10T20:37:07Z
 loc:
   Go:
-    code: 3268611
-    comments: 819887
-    blanks: 478283
-    files: 13054
+    code: 3268695
+    comments: 819904
+    blanks: 478292
+    files: 13055
   Json:
     code: 141594
     comments: 0
@@ -208,10 +208,10 @@ loc:
     blanks: 1279
     files: 78
 total:
-  code: 3607347
-  comments: 930062
-  blanks: 528558
-  files: 14712
+  code: 3607431
+  comments: 930079
+  blanks: 528567
+  files: 14713
 ---
 date: "2026-09-07"
 repo:
