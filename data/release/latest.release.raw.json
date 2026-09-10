@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 176948544,
       "digest": "sha256:94c022b42e43cf9c09e2f7cbc2a78ae509f547799597111dd75a9d4f28df40da",
-      "download_count": 66,
+      "download_count": 67,
       "created_at": "2026-08-08T14:32:55Z",
       "updated_at": "2026-08-08T14:33:05Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 159618114,
       "digest": "sha256:55fe326d78f13bc7580589959c82103b4ef319a3418468b8659d772d86dc6806",
-      "download_count": 80,
+      "download_count": 82,
       "created_at": "2026-08-08T14:32:53Z",
       "updated_at": "2026-08-08T14:33:02Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-darwin-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 172613794,
       "digest": "sha256:0a497df3665569f07c76c31a245ab2cc69e1d327faf7805b83358fde5a4b8da1",
-      "download_count": 33666,
+      "download_count": 34238,
       "created_at": "2026-08-08T14:33:05Z",
       "updated_at": "2026-08-08T14:33:13Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-linux-amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:69219a3700f2d02cd262318de727e53517ed66ba39d656759dc730c8de6dce49",
-      "download_count": 2371,
+      "download_count": 2440,
       "created_at": "2026-08-08T14:32:56Z",
       "updated_at": "2026-08-08T14:32:56Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-linux-amd64.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 154075298,
       "digest": "sha256:a76472e9b4ca549202fda98bd706d593be550c203eb5b02c9fbbfd8c20dc5419",
-      "download_count": 325,
+      "download_count": 329,
       "created_at": "2026-08-08T14:32:58Z",
       "updated_at": "2026-08-08T14:33:08Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:f00e154d5029b1b231e40875f0124db70c50091480a10b5f9188d43b7cb5e38d",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-08-08T14:33:04Z",
       "updated_at": "2026-08-08T14:33:04Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-linux-arm64.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 175905280,
       "digest": "sha256:96dbdfbfeff3ae499cc37c1f0846b540633b406e9e7caa84f82c17aff4120078",
-      "download_count": 91,
+      "download_count": 92,
       "created_at": "2026-08-08T14:33:08Z",
       "updated_at": "2026-08-08T14:33:17Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-windows-amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 122146978,
       "digest": "sha256:45f660519cbb55e3a493a9a77aec72c839c992d7a29efbfe8e2cc5599d3e7b04",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-08-08T14:33:15Z",
       "updated_at": "2026-08-08T14:33:23Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/nodeup-linux-amd64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 107413666,
       "digest": "sha256:b9f8b332b4e8ed409b8976a88b3440b49eea4508ff0cda86a23765626d4602fa",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-08T14:33:11Z",
       "updated_at": "2026-08-08T14:33:17Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/nodeup-linux-arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 99664034,
       "digest": "sha256:82cbd7947e88523fa9d67c50a0473fad189dd991ce8cf8316df2a5d21174b15e",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-08-08T14:33:18Z",
       "updated_at": "2026-08-08T14:33:23Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-amd64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 88735906,
       "digest": "sha256:07eec010ccf07e7b79abc2c45ebdf399a92ab8d874c9bf588f6b091f6f7721b6",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-08T14:33:22Z",
       "updated_at": "2026-08-08T14:33:29Z",
       "browser_download_url": "https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-arm64"
