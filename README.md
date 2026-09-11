@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 96 | 8 | 2 | 5 | 217 |
-| last60d | 2026-07-12 | 6 | 167 | 18 | 7 | 6 | 392 |
-| 90d | 2026-06-12 | 7 | 260 | 26 | 9 | 6 | 558 |
-| last180d | 2026-03-14 | 14 | 578 | 39 | 33 | 11 | 1210 |
-| 360d | 2025-09-15 | 19 | 932 | 43 | 82 | 21 | 1880 |
-| last720d | 2024-09-20 | 34 | 1397 | 44 | 192 | 25 | 2730 |
+| 30d | 2026-08-12 | 1 | 94 | 8 | 2 | 5 | 217 |
+| last60d | 2026-07-13 | 6 | 166 | 18 | 7 | 6 | 392 |
+| 90d | 2026-06-13 | 6 | 256 | 26 | 9 | 6 | 558 |
+| last180d | 2026-03-15 | 14 | 577 | 39 | 33 | 11 | 1210 |
+| 360d | 2025-09-16 | 19 | 932 | 43 | 82 | 21 | 1880 |
+| last720d | 2024-09-21 | 34 | 1397 | 44 | 192 | 25 | 2730 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:13:34Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:35:01Z._
