@@ -18,7 +18,7 @@ Total: **3,599,322** lines of code across **13734** files in the top 5 languages
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,268,810 | 819,925 | 478,304 | 13055 |
+| Go | 3,268,810 | 819,930 | 478,304 | 13055 |
 | Json | 141,594 | 0 | 1 | 55 |
 | Hcl | 79,520 | 0 | 7,730 | 81 |
 | Yaml | 67,308 | 537 | 1,410 | 464 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-beta.1` (2026-08-08)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-13
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 16,672 · **Forks**: 4,716 · **Open issues**: 5,355 · **Contributors**: 1,473
+- **Stars**: 16,674 · **Forks**: 4,716 · **Open issues**: 5,355 · **Contributors**: 1,473
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11640 · **Open PRs**: 43 · **Closed issues**: 5268 · **Open issues**: 87 · **Commits**: 24426
+- **Releases**: 239 · **Merged PRs**: 11641 · **Open PRs**: 43 · **Closed issues**: 5268 · **Open issues**: 87 · **Commits**: 24428
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 93 | 7 | 3 | 4 | 223 |
-| last60d | 2026-07-14 | 6 | 163 | 17 | 6 | 5 | 398 |
-| 90d | 2026-06-14 | 6 | 259 | 25 | 10 | 5 | 564 |
-| last180d | 2026-03-16 | 14 | 570 | 38 | 33 | 10 | 1216 |
-| 360d | 2025-09-17 | 19 | 934 | 42 | 84 | 18 | 1886 |
-| last720d | 2024-09-22 | 34 | 1398 | 43 | 194 | 23 | 2736 |
+| 30d | 2026-08-14 | 1 | 88 | 7 | 3 | 4 | 137 |
+| last60d | 2026-07-15 | 6 | 162 | 16 | 6 | 5 | 358 |
+| 90d | 2026-06-15 | 6 | 260 | 25 | 10 | 5 | 515 |
+| last180d | 2026-03-17 | 14 | 569 | 38 | 33 | 9 | 1173 |
+| 360d | 2025-09-18 | 19 | 934 | 42 | 83 | 18 | 1876 |
+| last720d | 2024-09-23 | 34 | 1399 | 43 | 194 | 23 | 2736 |
 
 ## Release assets
 
@@ -107,4 +107,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:26:31Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:42:34Z._
