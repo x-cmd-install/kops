@@ -14,14 +14,14 @@ x install kops
 
 ## Code insight
 
-Total: **3,599,322** lines of code across **13734** files in the top 5 languages.
+Total: **3,599,330** lines of code across **13734** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 3,268,810 | 819,930 | 478,304 | 13055 |
 | Json | 141,594 | 0 | 1 | 55 |
 | Hcl | 79,520 | 0 | 7,730 | 81 |
-| Yaml | 67,308 | 537 | 1,410 | 464 |
+| Yaml | 67,300 | 535 | 1,410 | 464 |
 | AssemblyGAS | 20,283 | 1,472 | 3,330 | 79 |
 
 ## OpenSSF Scorecard
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,674 · **Forks**: 4,716 · **Open issues**: 5,355 · **Contributors**: 1,473
+- **Stars**: 16,675 · **Forks**: 4,716 · **Open issues**: 5,355 · **Contributors**: 1,473
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11641 · **Open PRs**: 43 · **Closed issues**: 5268 · **Open issues**: 87 · **Commits**: 24428
+- **Releases**: 239 · **Merged PRs**: 11642 · **Open PRs**: 42 · **Closed issues**: 5268 · **Open issues**: 87 · **Commits**: 24430
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 88 | 7 | 3 | 4 | 137 |
-| last60d | 2026-07-15 | 6 | 162 | 16 | 6 | 5 | 358 |
-| 90d | 2026-06-15 | 6 | 260 | 25 | 10 | 5 | 515 |
-| last180d | 2026-03-17 | 14 | 569 | 38 | 33 | 9 | 1173 |
-| 360d | 2025-09-18 | 19 | 934 | 42 | 83 | 18 | 1876 |
-| last720d | 2024-09-23 | 34 | 1399 | 43 | 194 | 23 | 2736 |
+| 30d | 2026-08-15 | 1 | 84 | 6 | 3 | 4 | 139 |
+| last60d | 2026-07-16 | 3 | 158 | 15 | 6 | 5 | 360 |
+| 90d | 2026-06-16 | 6 | 259 | 24 | 9 | 5 | 517 |
+| last180d | 2026-03-18 | 14 | 564 | 37 | 31 | 9 | 1175 |
+| 360d | 2025-09-19 | 19 | 935 | 41 | 80 | 17 | 1878 |
+| last720d | 2024-09-24 | 34 | 1399 | 42 | 194 | 23 | 2736 |
 
 ## Release assets
 
@@ -88,16 +88,6 @@ Lowest-scoring checks:
 | [protokube-linux-arm64](https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-arm64) | 84.6 MiB | `native/linux/arm64` |
 | [protokube-linux-arm64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.2/protokube-linux-arm64.sha256) | 65 B | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **47** distros on [repology.org](https://repology.org/project/kops). **7** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.36.2` | ✅ latest |
-| Nix unstable | `1.33.0` | ⚠️ outdated |
-| Void | `1.36.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kops` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +97,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:42:34Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:57:29Z._
