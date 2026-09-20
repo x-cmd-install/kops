@@ -4,7 +4,7 @@
 
 Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
-![kops](https://repo.x-cmd.io/kops.svg)
+[![x-cmd/install — kops Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kops.svg)](https://x-cmd.com/install/kops)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,677 · **Forks**: 4,716 · **Open issues**: 5,356 · **Contributors**: 1,474
+- **Stars**: 16,675 · **Forks**: 4,715 · **Open issues**: 5,356 · **Contributors**: 1,475
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 65 | 7 | 3 | 2 | 141 |
-| last60d | 2026-07-20 | 3 | 155 | 13 | 7 | 4 | 362 |
-| 90d | 2026-06-20 | 6 | 239 | 23 | 10 | 5 | 519 |
-| last180d | 2026-03-22 | 10 | 556 | 36 | 31 | 9 | 1177 |
-| 360d | 2025-09-23 | 19 | 934 | 42 | 80 | 17 | 1880 |
-| last720d | 2024-09-28 | 34 | 1392 | 43 | 190 | 23 | 2724 |
+| 30d | 2026-08-21 | 1 | 52 | 6 | 2 | 1 | 80 |
+| last60d | 2026-07-22 | 3 | 151 | 13 | 7 | 4 | 341 |
+| 90d | 2026-06-22 | 6 | 237 | 22 | 10 | 5 | 500 |
+| last180d | 2026-03-24 | 10 | 555 | 36 | 31 | 9 | 1148 |
+| 360d | 2025-09-25 | 19 | 932 | 42 | 78 | 16 | 1870 |
+| last720d | 2024-09-30 | 34 | 1391 | 43 | 190 | 23 | 2722 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:40:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:43:13Z._
