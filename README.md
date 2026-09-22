@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,675 · **Forks**: 4,715 · **Open issues**: 5,356 · **Contributors**: 1,474
+- **Stars**: 16,677 · **Forks**: 4,716 · **Open issues**: 5,356 · **Contributors**: 1,474
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11643 · **Open PRs**: 43 · **Closed issues**: 5269 · **Open issues**: 87 · **Commits**: 24432
+- **Releases**: 239 · **Merged PRs**: 11643 · **Open PRs**: 44 · **Closed issues**: 5269 · **Open issues**: 87 · **Commits**: 24432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 51 | 6 | 2 | 1 | 80 |
-| last60d | 2026-07-23 | 3 | 151 | 12 | 7 | 4 | 341 |
-| 90d | 2026-06-23 | 6 | 237 | 22 | 10 | 5 | 500 |
-| last180d | 2026-03-25 | 10 | 555 | 36 | 31 | 9 | 1148 |
-| 360d | 2025-09-26 | 19 | 932 | 42 | 78 | 16 | 1870 |
-| last720d | 2024-10-01 | 34 | 1391 | 43 | 190 | 23 | 2722 |
+| 30d | 2026-08-23 | 1 | 49 | 7 | 2 | 1 | 80 |
+| last60d | 2026-07-24 | 3 | 149 | 13 | 6 | 4 | 341 |
+| 90d | 2026-06-24 | 6 | 237 | 23 | 10 | 5 | 500 |
+| last180d | 2026-03-26 | 10 | 552 | 37 | 31 | 9 | 1148 |
+| 360d | 2025-09-27 | 19 | 932 | 43 | 78 | 16 | 1870 |
+| last720d | 2024-10-02 | 34 | 1391 | 44 | 187 | 23 | 2722 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:55:36Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:47:26Z._
