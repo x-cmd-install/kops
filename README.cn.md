@@ -4,7 +4,7 @@
 
 Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 
-[![x-cmd/install — kops Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kops.svg?lang=zh)](https://x-cmd.com/install/kops)
+[![x-cmd/install — kops Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kops.svg?lang=zh)](https://x-cmd.com/install/kops)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install kops
 
 ## 流行度
 
-- **Star**: 16,677 · **Fork**: 4,716 · **开放 issue**: 5,356 · **贡献者**: 1,474
+- **Star**: 16,677 · **Fork**: 4,716 · **开放 issue**: 5,357 · **贡献者**: 1,474
 
 ## 累计统计
 
-- **发布数**: 239 · **已合并 PR**: 11643 · **开放 PR**: 44 · **已关闭 issue**: 5269 · **开放 issue**: 87 · **提交数**: 24432
+- **发布数**: 239 · **已合并 PR**: 11643 · **开放 PR**: 44 · **已关闭 issue**: 5269 · **开放 issue**: 88 · **提交数**: 24432
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 49 | 7 | 2 | 1 | 80 |
-| last60d | 2026-07-24 | 3 | 149 | 13 | 6 | 4 | 341 |
-| 90d | 2026-06-24 | 6 | 237 | 23 | 10 | 5 | 500 |
-| last180d | 2026-03-26 | 10 | 552 | 37 | 31 | 9 | 1148 |
-| 360d | 2025-09-27 | 19 | 932 | 43 | 78 | 16 | 1870 |
-| last720d | 2024-10-02 | 34 | 1391 | 44 | 187 | 23 | 2722 |
+| 30d | 2026-08-24 | 1 | 45 | 7 | 2 | 2 | 80 |
+| last60d | 2026-07-25 | 3 | 147 | 11 | 6 | 5 | 341 |
+| 90d | 2026-06-25 | 6 | 236 | 23 | 10 | 6 | 500 |
+| last180d | 2026-03-27 | 10 | 547 | 36 | 30 | 10 | 1148 |
+| 360d | 2025-09-28 | 19 | 931 | 43 | 78 | 17 | 1870 |
+| last720d | 2024-10-03 | 34 | 1391 | 44 | 187 | 24 | 2722 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ kops 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:47:27Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:52:07Z._
