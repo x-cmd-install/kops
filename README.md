@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-beta.1` (2026-08-08)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-28
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 16,680 · **Forks**: 4,717 · **Open issues**: 5,357 · **Contributors**: 1,477
+- **Stars**: 16,683 · **Forks**: 4,718 · **Open issues**: 5,358 · **Contributors**: 1,477
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11656 · **Open PRs**: 43 · **Closed issues**: 5270 · **Open issues**: 87 · **Commits**: 24482
+- **Releases**: 239 · **Merged PRs**: 11657 · **Open PRs**: 45 · **Closed issues**: 5270 · **Open issues**: 88 · **Commits**: 24484
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 38 | 6 | 3 | 0 | 67 |
-| last60d | 2026-07-30 | 2 | 133 | 11 | 7 | 4 | 318 |
-| 90d | 2026-06-30 | 6 | 238 | 22 | 11 | 5 | 520 |
-| last180d | 2026-04-01 | 10 | 544 | 34 | 27 | 9 | 1136 |
-| 360d | 2025-10-03 | 19 | 941 | 42 | 77 | 15 | 1887 |
-| last720d | 2024-10-08 | 34 | 1394 | 43 | 187 | 22 | 2751 |
+| 30d | 2026-08-30 | 0 | 39 | 8 | 3 | 1 | 69 |
+| last60d | 2026-07-31 | 2 | 133 | 13 | 7 | 5 | 320 |
+| 90d | 2026-07-01 | 6 | 239 | 24 | 11 | 6 | 522 |
+| last180d | 2026-04-02 | 10 | 539 | 36 | 27 | 10 | 1138 |
+| 360d | 2025-10-04 | 19 | 934 | 44 | 77 | 16 | 1889 |
+| last720d | 2024-10-09 | 34 | 1394 | 45 | 185 | 23 | 2752 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:23:16Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:35:28Z._
