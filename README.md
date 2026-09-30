@@ -14,7 +14,7 @@ x install kops
 
 ## Code insight
 
-Total: **3,601,570** lines of code across **13733** files in the top 5 languages.
+Total: **3,601,572** lines of code across **13733** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-beta.1` (2026-08-08)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-30
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 16,683 · **Forks**: 4,718 · **Open issues**: 5,358 · **Contributors**: 1,477
+- **Stars**: 16,683 · **Forks**: 4,719 · **Open issues**: 5,358 · **Contributors**: 1,483
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11657 · **Open PRs**: 45 · **Closed issues**: 5270 · **Open issues**: 88 · **Commits**: 24484
+- **Releases**: 239 · **Merged PRs**: 11658 · **Open PRs**: 44 · **Closed issues**: 5270 · **Open issues**: 88 · **Commits**: 24486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 39 | 8 | 3 | 1 | 69 |
-| last60d | 2026-07-31 | 2 | 133 | 13 | 7 | 5 | 320 |
-| 90d | 2026-07-01 | 6 | 239 | 24 | 11 | 6 | 522 |
-| last180d | 2026-04-02 | 10 | 539 | 36 | 27 | 10 | 1138 |
-| 360d | 2025-10-04 | 19 | 934 | 44 | 77 | 16 | 1889 |
-| last720d | 2024-10-09 | 34 | 1394 | 45 | 185 | 23 | 2752 |
+| 30d | 2026-08-31 | 0 | 40 | 7 | 3 | 1 | 71 |
+| last60d | 2026-08-01 | 2 | 130 | 12 | 7 | 5 | 322 |
+| 90d | 2026-07-02 | 6 | 236 | 22 | 11 | 6 | 524 |
+| last180d | 2026-04-03 | 10 | 532 | 35 | 27 | 10 | 1140 |
+| 360d | 2025-10-05 | 19 | 934 | 43 | 77 | 16 | 1891 |
+| last720d | 2024-10-10 | 34 | 1395 | 44 | 183 | 23 | 2754 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:35:28Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:23:54Z._
