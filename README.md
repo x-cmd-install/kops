@@ -14,7 +14,7 @@ x install kops
 
 ## Code insight
 
-Total: **3,602,828** lines of code across **13738** files in the top 5 languages.
+Total: **3,602,854** lines of code across **13738** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,684 · **Forks**: 4,717 · **Open issues**: 5,359 · **Contributors**: 1,489
+- **Stars**: 16,684 · **Forks**: 4,718 · **Open issues**: 5,359 · **Contributors**: 1,489
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11672 · **Open PRs**: 47 · **Closed issues**: 5274 · **Open issues**: 85 · **Commits**: 24516
+- **Releases**: 239 · **Merged PRs**: 11673 · **Open PRs**: 48 · **Closed issues**: 5274 · **Open issues**: 85 · **Commits**: 24518
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 35 | 8 | 3 | 1 | 74 |
-| last60d | 2026-08-10 | 1 | 128 | 14 | 7 | 5 | 319 |
-| 90d | 2026-07-11 | 6 | 208 | 25 | 11 | 6 | 498 |
-| last180d | 2026-04-12 | 10 | 528 | 38 | 27 | 10 | 1115 |
-| 360d | 2025-10-14 | 18 | 927 | 46 | 76 | 16 | 1869 |
-| last720d | 2024-10-19 | 33 | 1390 | 47 | 185 | 20 | 2746 |
+| 30d | 2026-09-10 | 0 | 31 | 9 | 3 | 1 | 76 |
+| last60d | 2026-08-11 | 1 | 129 | 15 | 6 | 5 | 321 |
+| 90d | 2026-07-12 | 6 | 201 | 24 | 11 | 6 | 500 |
+| last180d | 2026-04-13 | 10 | 520 | 39 | 27 | 10 | 1117 |
+| 360d | 2025-10-15 | 18 | 922 | 47 | 75 | 16 | 1871 |
+| last720d | 2024-10-20 | 33 | 1391 | 48 | 185 | 20 | 2747 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:50:45Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:28:06Z._
