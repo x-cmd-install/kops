@@ -14,14 +14,14 @@ x install kops
 
 ## Code insight
 
-Total: **3,602,858** lines of code across **13738** files in the top 5 languages.
+Total: **3,603,535** lines of code across **13742** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,271,542 | 820,311 | 478,578 | 13063 |
+| Go | 3,272,102 | 820,429 | 478,642 | 13067 |
 | Json | 141,594 | 0 | 1 | 55 |
 | Hcl | 79,524 | 0 | 7,730 | 81 |
-| Yaml | 68,069 | 463 | 1,457 | 460 |
+| Yaml | 68,066 | 463 | 1,457 | 460 |
 | AssemblyGAS | 20,283 | 1,472 | 3,330 | 79 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-beta.1` (2026-08-08)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 16,688 · **Forks**: 4,718 · **Open issues**: 5,359 · **Contributors**: 1,490
+- **Stars**: 16,690 · **Forks**: 4,718 · **Open issues**: 5,359 · **Contributors**: 1,491
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11679 · **Open PRs**: 47 · **Closed issues**: 5274 · **Open issues**: 85 · **Commits**: 24527
+- **Releases**: 239 · **Merged PRs**: 11690 · **Open PRs**: 46 · **Closed issues**: 5274 · **Open issues**: 85 · **Commits**: 24548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 34 | 9 | 3 | 1 | 72 |
-| last60d | 2026-08-14 | 1 | 123 | 15 | 6 | 5 | 247 |
-| 90d | 2026-07-15 | 6 | 197 | 23 | 9 | 6 | 466 |
-| last180d | 2026-04-16 | 10 | 517 | 37 | 27 | 10 | 1079 |
-| 360d | 2025-10-18 | 18 | 919 | 45 | 74 | 16 | 1852 |
-| last720d | 2024-10-23 | 33 | 1395 | 47 | 184 | 20 | 2754 |
+| 30d | 2026-09-14 | 0 | 44 | 8 | 2 | 1 | 87 |
+| last60d | 2026-08-15 | 1 | 129 | 14 | 6 | 5 | 262 |
+| 90d | 2026-07-16 | 3 | 203 | 22 | 9 | 6 | 481 |
+| last180d | 2026-04-17 | 10 | 523 | 34 | 26 | 10 | 1094 |
+| 360d | 2025-10-19 | 18 | 930 | 44 | 74 | 16 | 1867 |
+| last720d | 2024-10-24 | 33 | 1403 | 46 | 182 | 20 | 2774 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:34:11Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:45:12Z._
