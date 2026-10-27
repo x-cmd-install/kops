@@ -14,11 +14,11 @@ x install kops
 
 ## Code insight
 
-Total: **3,657,741** lines of code across **13819** files in the top 5 languages.
+Total: **3,657,803** lines of code across **13819** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,325,534 | 830,272 | 483,778 | 13137 |
+| Go | 3,325,596 | 830,272 | 483,782 | 13137 |
 | Json | 141,606 | 0 | 1 | 57 |
 | Hcl | 79,600 | 0 | 7,732 | 81 |
 | Yaml | 68,542 | 465 | 1,467 | 463 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-beta.1` (2026-08-08)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-27
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 16,695 · **Forks**: 4,717 · **Open issues**: 5,360 · **Contributors**: 1,496
+- **Stars**: 16,696 · **Forks**: 4,717 · **Open issues**: 5,361 · **Contributors**: 1,496
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 11743 · **Open PRs**: 48 · **Closed issues**: 5279 · **Open issues**: 81 · **Commits**: 24648
+- **Releases**: 239 · **Merged PRs**: 11749 · **Open PRs**: 49 · **Closed issues**: 5279 · **Open issues**: 82 · **Commits**: 24656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 83 | 15 | 2 | 1 | 144 |
-| last60d | 2026-08-27 | 1 | 131 | 20 | 5 | 1 | 255 |
-| 90d | 2026-07-28 | 3 | 236 | 24 | 9 | 5 | 486 |
-| last180d | 2026-04-29 | 10 | 538 | 40 | 27 | 9 | 1114 |
-| 360d | 2025-10-31 | 17 | 965 | 47 | 72 | 14 | 1918 |
-| last720d | 2024-11-05 | 33 | 1444 | 48 | 186 | 17 | 2847 |
+| 30d | 2026-09-27 | 0 | 89 | 16 | 2 | 2 | 152 |
+| last60d | 2026-08-28 | 1 | 133 | 21 | 5 | 2 | 263 |
+| 90d | 2026-07-29 | 2 | 238 | 25 | 9 | 6 | 494 |
+| last180d | 2026-04-30 | 10 | 543 | 41 | 27 | 10 | 1122 |
+| 360d | 2025-11-01 | 17 | 966 | 48 | 72 | 15 | 1926 |
+| last720d | 2024-11-06 | 33 | 1449 | 49 | 185 | 18 | 2855 |
 
 ## Release assets
 
@@ -90,12 +90,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/kops). **7** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/kops). **9** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.33.0` | ⚠️ outdated |
+| Homebrew | `1.36.2` | ✅ latest |
+| Nix unstable | `1.36.2` | ✅ latest |
 | Void | `1.36.2` | ✅ latest |
 
 ## Improve this data
@@ -107,4 +107,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:32:22Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:51:47Z._
