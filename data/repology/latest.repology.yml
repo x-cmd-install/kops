@@ -2,8 +2,8 @@
   srcname: kops
   binname: kops
   visiblename: kops
-  version: 1.36.3
-  origversion: 1.36.3-1
+  version: 1.37.0
+  origversion: 1.37.0-1
   status: newest
   summary: Kubernetes Operations - Production Grade K8s Installation, Upgrades, and Management (build from src)
   maintainers:
@@ -26,8 +26,8 @@
   srcname: kops-bin
   binname: kops-bin
   visiblename: kops-bin
-  version: v1.36.2
-  origversion: v1.36.2-1
+  version: v1.37.0
+  origversion: v1.37.0-1
   status: outdated
   summary: Kubernetes Operations (kOps) - Production Grade K8s Installation, Upgrades, and Management
   maintainers:
@@ -146,6 +146,20 @@
     - unicode
   categories:
     - sys-cluster
+- repo: nix_stable_25_11
+  srcname: kops
+  visiblename: kops
+  version: 1.33.0
+  origversion: null
+  status: outdated
+  summary: Easiest way to get a production Kubernetes up and running
+  maintainers:
+    - jaka@x-truder.net
+    - zimbatm@zimbatm.com
+    - diego.o.lelis@gmail.com
+    - eric@ericb.me
+  licenses:
+    - Apache-2.0
 - repo: gentoo_ovl_guru
   srcname: sys-cluster/kops-bin
   visiblename: sys-cluster/kops-bin
@@ -172,9 +186,9 @@
 - repo: homebrew
   srcname: kops
   visiblename: kops
-  version: 1.36.2
+  version: 1.37.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Production Grade K8s Installation, Upgrades, and Management
 - repo: homebrew
   srcname: kops
@@ -371,9 +385,9 @@
   srcname: devel/kops
   binname: kops
   visiblename: kops
-  version: 1.36.2
+  version: 1.37.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Kubernetes Operations (kops)
   maintainers:
     - herbygillot@github
@@ -536,20 +550,6 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_11
-  srcname: kops
-  visiblename: kops
-  version: 1.33.0
-  origversion: null
-  status: outdated
-  summary: Easiest way to get a production Kubernetes up and running
-  maintainers:
-    - jaka@x-truder.net
-    - zimbatm@zimbatm.com
-    - diego.o.lelis@gmail.com
-    - eric@ericb.me
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
   srcname: kops_1_31
   visiblename: kops
   version: 1.31.0
@@ -677,7 +677,7 @@
   subrepo: main
   binname: kops
   visiblename: kops
-  version: 1.36.3
+  version: 1.37.0
   origversion: null
   status: newest
   licenses:
@@ -685,9 +685,9 @@
 - repo: t2
   srcname: kops
   visiblename: kops
-  version: 1.36.2
+  version: 1.37.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Kubernetes Operations
   maintainers:
     - rene@exactco.de
