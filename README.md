@@ -14,14 +14,14 @@ x install kops
 
 ## Code insight
 
-Total: **3,660,806** lines of code across **13831** files in the top 5 languages.
+Total: **3,661,637** lines of code across **13832** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,328,178 | 830,656 | 484,050 | 13150 |
+| Go | 3,328,216 | 830,670 | 484,058 | 13151 |
 | Json | 141,606 | 0 | 1 | 57 |
 | Hcl | 79,662 | 0 | 7,741 | 81 |
-| Yaml | 68,882 | 469 | 1,464 | 462 |
+| Yaml | 69,675 | 469 | 1,464 | 462 |
 | AssemblyGAS | 20,441 | 1,504 | 3,368 | 81 |
 
 ## OpenSSF Scorecard
@@ -42,59 +42,55 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.36.3` (2026-11-10)
-- **Last commit**: 2026-11-09
-- **Assets in release**: 18
+- **Latest**: `v1.37.0` (2026-11-10)
+- **Last commit**: 2026-11-11
+- **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 16,702 · **Forks**: 4,715 · **Open issues**: 5,367 · **Contributors**: 1,508
+- **Stars**: 16,704 · **Forks**: 4,715 · **Open issues**: 5,367 · **Contributors**: 1,508
 
 ## Totals (cumulative)
 
-- **Releases**: 240 · **Merged PRs**: 11830 · **Open PRs**: 47 · **Closed issues**: 5282 · **Open issues**: 85 · **Commits**: 24755
+- **Releases**: 241 · **Merged PRs**: 11837 · **Open PRs**: 50 · **Closed issues**: 5282 · **Open issues**: 85 · **Commits**: 24771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 148 | 14 | 2 | 6 | 202 |
-| last60d | 2026-09-11 | 1 | 182 | 19 | 5 | 7 | 300 |
-| 90d | 2026-08-12 | 2 | 281 | 24 | 9 | 10 | 502 |
-| last180d | 2026-05-14 | 11 | 554 | 39 | 25 | 14 | 1043 |
-| 360d | 2025-11-15 | 18 | 1023 | 47 | 69 | 18 | 2003 |
-| last720d | 2024-11-20 | 34 | 1517 | 47 | 187 | 21 | 2931 |
+| 30d | 2026-10-12 | 2 | 152 | 17 | 2 | 6 | 218 |
+| last60d | 2026-09-12 | 2 | 188 | 22 | 5 | 7 | 316 |
+| 90d | 2026-08-13 | 3 | 284 | 27 | 9 | 10 | 518 |
+| last180d | 2026-05-15 | 12 | 556 | 42 | 25 | 14 | 1059 |
+| 360d | 2025-11-16 | 19 | 1028 | 50 | 69 | 18 | 2019 |
+| last720d | 2024-11-21 | 35 | 1523 | 50 | 187 | 21 | 2946 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kops-darwin-amd64](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-darwin-amd64) | 166.7 MiB | `native/darwin/x64` |
-| [kops-darwin-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-darwin-amd64.sha256) | 65 B | `native/darwin/x64` |
-| [kops-darwin-arm64](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-darwin-arm64) | 149.4 MiB | `native/darwin/arm64` |
-| [kops-darwin-arm64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-darwin-arm64.sha256) | 65 B | `native/darwin/arm64` |
-| [kops-linux-amd64](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-linux-amd64) | 162.7 MiB | `native/linux/x64` |
-| [kops-linux-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-linux-amd64.sha256) | 65 B | `native/linux/x64` |
-| [kops-linux-arm64](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-linux-arm64) | 144.3 MiB | `native/linux/arm64` |
-| [kops-linux-arm64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-linux-arm64.sha256) | 65 B | `native/linux/arm64` |
-| [kops-windows-amd64](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-windows-amd64) | 165.7 MiB | `native/win/x64` |
-| [kops-windows-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/kops-windows-amd64.sha256) | 65 B | `native/win/x64` |
-| [nodeup-linux-amd64](https://github.com/kubernetes/kops/releases/download/v1.36.3/nodeup-linux-amd64) | 115.3 MiB | `native/linux/x64` |
-| [nodeup-linux-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/nodeup-linux-amd64.sha256) | 65 B | `native/linux/x64` |
-| [nodeup-linux-arm64](https://github.com/kubernetes/kops/releases/download/v1.36.3/nodeup-linux-arm64) | 100.7 MiB | `native/linux/arm64` |
-| [nodeup-linux-arm64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/nodeup-linux-arm64.sha256) | 65 B | `native/linux/arm64` |
-| [protokube-linux-amd64](https://github.com/kubernetes/kops/releases/download/v1.36.3/protokube-linux-amd64) | 94.0 MiB | `native/linux/x64` |
-| [protokube-linux-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/protokube-linux-amd64.sha256) | 65 B | `native/linux/x64` |
-| [protokube-linux-arm64](https://github.com/kubernetes/kops/releases/download/v1.36.3/protokube-linux-arm64) | 83.1 MiB | `native/linux/arm64` |
-| [protokube-linux-arm64.sha256](https://github.com/kubernetes/kops/releases/download/v1.36.3/protokube-linux-arm64.sha256) | 65 B | `native/linux/arm64` |
+| [kops-darwin-amd64](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-darwin-amd64) | 80.3 MiB | `native/darwin/x64` |
+| [kops-darwin-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-darwin-amd64.sha256) | 65 B | `native/darwin/x64` |
+| [kops-darwin-arm64](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-darwin-arm64) | 74.3 MiB | `native/darwin/arm64` |
+| [kops-darwin-arm64.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-darwin-arm64.sha256) | 65 B | `native/darwin/arm64` |
+| [kops-linux-amd64](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-linux-amd64) | 78.2 MiB | `native/linux/x64` |
+| [kops-linux-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-linux-amd64.sha256) | 65 B | `native/linux/x64` |
+| [kops-linux-arm64](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-linux-arm64) | 71.6 MiB | `native/linux/arm64` |
+| [kops-linux-arm64.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-linux-arm64.sha256) | 65 B | `native/linux/arm64` |
+| [kops-windows-amd64](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-windows-amd64) | 79.7 MiB | `native/win/x64` |
+| [kops-windows-amd64.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/kops-windows-amd64.sha256) | 65 B | `native/win/x64` |
+| [nodeup-linux-amd64.xz](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-amd64.xz) | 8.3 MiB | `native/linux/x64` |
+| [nodeup-linux-amd64.xz.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-amd64.xz.sha256) | 65 B | `native/linux/x64` |
+| [nodeup-linux-arm64.xz](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-arm64.xz) | 7.0 MiB | `native/linux/arm64` |
+| [nodeup-linux-arm64.xz.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-arm64.xz.sha256) | 65 B | `native/linux/arm64` |
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/kops). **2** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/kops). **5** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.36.2` | ⚠️ outdated |
+| Homebrew | `1.37.0` | ✅ latest |
 | Nix unstable | `1.36.2` | ⚠️ outdated |
 | Void | `1.36.2` | ⚠️ outdated |
 
@@ -107,4 +103,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:07:47Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:17:34Z._
