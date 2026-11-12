@@ -1,4 +1,28 @@
 - repo: aur
+  srcname: kops-git
+  binname: kops-git
+  visiblename: kops-git
+  version: 1.25.0.alpha.2.r85.g429ebecdca
+  origversion: 1.25.0.alpha.2.r85.g429ebecdca-6
+  status: rolling
+  summary: Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management. (git version)
+  maintainers:
+    - dissonant@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: kops21-bin
+  binname: kops21-bin
+  visiblename: kops21-bin
+  version: v1.21.4
+  origversion: v1.21.4-1
+  status: outdated
+  summary: Kubernetes Operations 1.21 version (kOps) - Production Grade K8s Installation, Upgrades, and Management
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - Apache
+- repo: aur
   srcname: kops
   binname: kops
   visiblename: kops
@@ -34,30 +58,6 @@
     - lerentis@aur
   licenses:
     - Apache
-- repo: aur
-  srcname: kops-git
-  binname: kops-git
-  visiblename: kops-git
-  version: 1.25.0.alpha.2.r85.g429ebecdca
-  origversion: 1.25.0.alpha.2.r85.g429ebecdca-6
-  status: rolling
-  summary: Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management. (git version)
-  maintainers:
-    - dissonant@aur
-  licenses:
-    - Apache
-- repo: aur
-  srcname: kops21-bin
-  binname: kops21-bin
-  visiblename: kops21-bin
-  version: v1.21.4
-  origversion: v1.21.4-1
-  status: outdated
-  summary: Kubernetes Operations 1.21 version (kOps) - Production Grade K8s Installation, Upgrades, and Management
-  maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - Apache
 - repo: chocolatey
   binname: kubernetes-kops
   visiblename: Kubernetes Operations (kops)
@@ -70,7 +70,7 @@
   binname: kops
   visiblename: sysutils/kops
   version: 1.36.2
-  origversion: 1.36.2_5
+  origversion: 1.36.2_6
   status: outdated
   summary: Kubernetes Operations
   maintainers:
@@ -146,20 +146,6 @@
     - unicode
   categories:
     - sys-cluster
-- repo: nix_stable_25_11
-  srcname: kops
-  visiblename: kops
-  version: 1.33.0
-  origversion: null
-  status: outdated
-  summary: Easiest way to get a production Kubernetes up and running
-  maintainers:
-    - jaka@x-truder.net
-    - zimbatm@zimbatm.com
-    - diego.o.lelis@gmail.com
-    - eric@ericb.me
-  licenses:
-    - Apache-2.0
 - repo: gentoo_ovl_guru
   srcname: sys-cluster/kops-bin
   visiblename: sys-cluster/kops-bin
@@ -197,6 +183,20 @@
   origversion: null
   status: rolling
   summary: Production Grade K8s Installation, Upgrades, and Management
+- repo: nix_stable_25_05
+  srcname: kops_1_28
+  visiblename: kops
+  version: 1.28.7
+  origversion: null
+  status: legacy
+  summary: Easiest way to get a production Kubernetes up and running
+  maintainers:
+    - jaka@x-truder.net
+    - zimbatm@zimbatm.com
+    - diego.o.lelis@gmail.com
+    - eric@ericb.me
+  licenses:
+    - Apache-2.0
 - repo: liguros_stable
   srcname: sys-cluster/kops
   visiblename: sys-cluster/kops
@@ -243,6 +243,20 @@
     - unicode
   categories:
     - sys-cluster
+- repo: nix_stable_24_11
+  srcname: kops_1_27
+  visiblename: kops
+  version: 1.27.1
+  origversion: null
+  status: legacy
+  summary: Easiest way to get a production Kubernetes up and running
+  maintainers:
+    - jaka@x-truder.net
+    - zimbatm@zimbatm.com
+    - diego.o.lelis@gmail.com
+    - eric@ericb.me
+  licenses:
+    - Apache-2.0
 - repo: liguros_stable
   srcname: sys-cluster/kops-bin
   visiblename: sys-cluster/kops-bin
@@ -452,20 +466,6 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_24_11
-  srcname: kops_1_27
-  visiblename: kops
-  version: 1.27.1
-  origversion: null
-  status: legacy
-  summary: Easiest way to get a production Kubernetes up and running
-  maintainers:
-    - jaka@x-truder.net
-    - zimbatm@zimbatm.com
-    - diego.o.lelis@gmail.com
-    - eric@ericb.me
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
   srcname: kops_1_28
   visiblename: kops
   version: 1.28.7
@@ -522,11 +522,11 @@
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
-  srcname: kops_1_28
+  srcname: kops_1_30
   visiblename: kops
-  version: 1.28.7
+  version: 1.30.4
   origversion: null
-  status: legacy
+  status: outdated
   summary: Easiest way to get a production Kubernetes up and running
   maintainers:
     - jaka@x-truder.net
@@ -535,10 +535,10 @@
     - eric@ericb.me
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: kops_1_30
+- repo: nix_stable_25_11
+  srcname: kops
   visiblename: kops
-  version: 1.30.4
+  version: 1.33.0
   origversion: null
   status: outdated
   summary: Easiest way to get a production Kubernetes up and running
