@@ -14,14 +14,14 @@ x install kops
 
 ## Code insight
 
-Total: **3,662,033** lines of code across **13833** files in the top 5 languages.
+Total: **3,662,093** lines of code across **13833** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,328,616 | 830,711 | 484,087 | 13152 |
+| Go | 3,328,667 | 830,724 | 484,089 | 13152 |
 | Json | 141,606 | 0 | 1 | 57 |
 | Hcl | 79,662 | 0 | 7,741 | 81 |
-| Yaml | 69,669 | 465 | 1,464 | 462 |
+| Yaml | 69,677 | 465 | 1,464 | 462 |
 | AssemblyGAS | 20,441 | 1,504 | 3,368 | 81 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0` (2026-11-10)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-17
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 16,708 · **Forks**: 4,714 · **Open issues**: 5,369 · **Contributors**: 1,510
+- **Stars**: 16,710 · **Forks**: 4,715 · **Open issues**: 5,370 · **Contributors**: 1,512
 
 ## Totals (cumulative)
 
-- **Releases**: 241 · **Merged PRs**: 11851 · **Open PRs**: 49 · **Closed issues**: 5283 · **Open issues**: 86 · **Commits**: 24795
+- **Releases**: 241 · **Merged PRs**: 11853 · **Open PRs**: 51 · **Closed issues**: 5284 · **Open issues**: 86 · **Commits**: 24800
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 146 | 15 | 3 | 7 | 183 |
-| last60d | 2026-09-17 | 2 | 201 | 21 | 6 | 8 | 336 |
-| 90d | 2026-08-18 | 3 | 271 | 26 | 10 | 9 | 479 |
-| last180d | 2026-05-20 | 12 | 540 | 41 | 26 | 14 | 1019 |
-| 360d | 2025-11-21 | 19 | 1041 | 49 | 70 | 19 | 2027 |
-| last720d | 2024-11-26 | 35 | 1529 | 49 | 187 | 22 | 2964 |
+| 30d | 2026-10-18 | 2 | 147 | 17 | 3 | 8 | 188 |
+| last60d | 2026-09-18 | 2 | 203 | 23 | 6 | 9 | 341 |
+| 90d | 2026-08-19 | 3 | 270 | 28 | 10 | 10 | 484 |
+| last180d | 2026-05-21 | 12 | 531 | 42 | 26 | 14 | 1024 |
+| 360d | 2025-11-22 | 19 | 1043 | 51 | 70 | 20 | 2032 |
+| last720d | 2024-11-27 | 35 | 1531 | 51 | 188 | 22 | 2967 |
 
 ## Release assets
 
@@ -84,16 +84,6 @@ Lowest-scoring checks:
 | [nodeup-linux-arm64.xz](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-arm64.xz) | 7.0 MiB | `native/linux/arm64` |
 | [nodeup-linux-arm64.xz.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-arm64.xz.sha256) | 65 B | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **47** distros on [repology.org](https://repology.org/project/kops). **5** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.37.0` | ✅ latest |
-| Nix unstable | `1.36.2` | ⚠️ outdated |
-| Void | `1.36.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kops` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +93,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:49:47Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:38:11Z._
