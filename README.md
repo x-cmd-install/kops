@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,711 · **Forks**: 4,716 · **Open issues**: 5,372 · **Contributors**: 1,517
+- **Stars**: 16,711 · **Forks**: 4,715 · **Open issues**: 5,372 · **Contributors**: 1,517
 
 ## Totals (cumulative)
 
-- **Releases**: 241 · **Merged PRs**: 11866 · **Open PRs**: 53 · **Closed issues**: 5289 · **Open issues**: 83 · **Commits**: 24824
+- **Releases**: 241 · **Merged PRs**: 11868 · **Open PRs**: 52 · **Closed issues**: 5289 · **Open issues**: 83 · **Commits**: 24828
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 2 | 132 | 16 | 6 | 7 | 153 |
-| last60d | 2026-09-23 | 2 | 214 | 25 | 8 | 8 | 334 |
-| 90d | 2026-08-24 | 3 | 263 | 29 | 12 | 8 | 439 |
-| last180d | 2026-05-26 | 12 | 530 | 44 | 29 | 12 | 1014 |
-| 360d | 2025-11-27 | 18 | 1046 | 53 | 75 | 17 | 2038 |
-| last720d | 2024-12-02 | 34 | 1536 | 53 | 192 | 19 | 2977 |
+| 30d | 2026-10-24 | 2 | 131 | 15 | 6 | 7 | 157 |
+| last60d | 2026-09-24 | 2 | 214 | 24 | 8 | 8 | 338 |
+| 90d | 2026-08-25 | 3 | 259 | 27 | 12 | 8 | 443 |
+| last180d | 2026-05-27 | 12 | 523 | 43 | 29 | 12 | 1018 |
+| 360d | 2025-11-28 | 18 | 1044 | 52 | 73 | 17 | 2042 |
+| last720d | 2024-12-03 | 34 | 1536 | 52 | 191 | 19 | 2981 |
 
 ## Release assets
 
@@ -86,11 +86,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **47** distros on [repology.org](https://repology.org/project/kops). **5** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **47** distros on [repology.org](https://repology.org/project/kops). **7** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.37.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.36.2` | ⚠️ outdated |
 | Void | `1.36.2` | ⚠️ outdated |
 
@@ -103,4 +103,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:39:25Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:58:59Z._
