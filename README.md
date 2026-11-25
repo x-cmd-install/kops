@@ -14,11 +14,11 @@ x install kops
 
 ## Code insight
 
-Total: **3,663,790** lines of code across **13836** files in the top 5 languages.
+Total: **3,663,822** lines of code across **13836** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,330,350 | 831,050 | 484,424 | 13155 |
+| Go | 3,330,383 | 831,050 | 484,428 | 13155 |
 | Json | 141,606 | 0 | 1 | 57 |
 | Hcl | 79,662 | 0 | 7,741 | 81 |
 | Yaml | 69,680 | 465 | 1,464 | 462 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0` (2026-11-10)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 16,711 · **Forks**: 4,716 · **Open issues**: 5,372 · **Contributors**: 1,520
+- **Stars**: 16,713 · **Forks**: 4,716 · **Open issues**: 5,372 · **Contributors**: 1,520
 
 ## Totals (cumulative)
 
-- **Releases**: 241 · **Merged PRs**: 11872 · **Open PRs**: 51 · **Closed issues**: 5290 · **Open issues**: 82 · **Commits**: 24836
+- **Releases**: 241 · **Merged PRs**: 11877 · **Open PRs**: 50 · **Closed issues**: 5290 · **Open issues**: 82 · **Commits**: 24845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 124 | 13 | 7 | 6 | 165 |
-| last60d | 2026-09-25 | 2 | 211 | 23 | 9 | 7 | 346 |
-| 90d | 2026-08-26 | 3 | 262 | 26 | 13 | 7 | 451 |
-| last180d | 2026-05-28 | 10 | 523 | 42 | 30 | 11 | 1026 |
-| 360d | 2025-11-29 | 18 | 1048 | 51 | 74 | 16 | 2050 |
-| last720d | 2024-12-04 | 33 | 1537 | 51 | 191 | 18 | 2985 |
+| 30d | 2026-10-26 | 2 | 125 | 11 | 6 | 6 | 174 |
+| last60d | 2026-09-26 | 2 | 216 | 20 | 9 | 7 | 355 |
+| 90d | 2026-08-27 | 3 | 264 | 25 | 12 | 7 | 460 |
+| last180d | 2026-05-29 | 9 | 525 | 41 | 29 | 11 | 1035 |
+| 360d | 2025-11-30 | 18 | 1053 | 50 | 74 | 16 | 2059 |
+| last720d | 2024-12-05 | 33 | 1540 | 50 | 191 | 18 | 2986 |
 
 ## Release assets
 
@@ -84,16 +84,6 @@ Lowest-scoring checks:
 | [nodeup-linux-arm64.xz](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-arm64.xz) | 7.0 MiB | `native/linux/arm64` |
 | [nodeup-linux-arm64.xz.sha256](https://github.com/kubernetes/kops/releases/download/v1.37.0/nodeup-linux-arm64.xz.sha256) | 65 B | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **47** distros on [repology.org](https://repology.org/project/kops). **7** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.36.2` | ⚠️ outdated |
-| Void | `1.36.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kops` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +93,4 @@ Install metadata for kops lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:23:11Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:01:01Z._
